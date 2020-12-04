@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hello, I'm Santatra! 👋
+
+I'm based in Antananario, Madagascar. 
+
+I'm a student at Antananarivo University in Signal and Systems and I'm a hobbyist programmer. 😄
+
+### What I am working on:
+I'm pretty busy with college these days :confused: but my latest project which I'm trying to perfect is a Flappy Bird reinforcement learning agent.
 
 <!--
 **HarimbolaSantatra/HarimbolaSantatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
