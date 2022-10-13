@@ -1,11 +1,9 @@
 ### Hello, I'm Santatra! 👋
 
-I'm based in Antananario, Madagascar. 
-
-I'm a student at Antananarivo University in Signal and Systems and I'm a hobbyist programmer. 😄
+I study Signals and Systems Physics at Antananarivo University, Madagascar. 😄
 
 ### What I am working on:
-I'm pretty busy with college these days :confused: but my latest project which I'm trying to perfect is a Flappy Bird reinforcement learning agent.
+I'm pretty busy with college these days :confused: :books: but my latest project which I'm trying to perfect is an RFID based attendance system which you can find [here](https://github.com/HarimbolaSantatra/rfid-attendance-system).
 
 <!--
 **HarimbolaSantatra/HarimbolaSantatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
