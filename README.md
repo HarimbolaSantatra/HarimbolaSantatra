@@ -2,18 +2,16 @@
 
 I study Signals and Systems Physics at Antananarivo University, Madagascar. 😄
 
-### What I am working on:
-I'm pretty busy with college these days :confused: :books: but my latest project which I'm trying to perfect is an RFID based attendance system which you can find [here](https://github.com/HarimbolaSantatra/rfid-attendance-system).
+### What I am learning :
+I'm currently learning ASP.NET by writing a .NET Inventory App. The tech stack includes:
+- ASP.NET MVC as back-end
+- Bootstrap & JQuery as front-end
+- MySQL server as database
+- Different Nuget package (Mailkit/Mimekit for email, iText7 for PDF handling, etc...)
 
-<!--
-**HarimbolaSantatra/HarimbolaSantatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm using pure MySQL Connector instead of Entity Framework to connect the application to a MySQL database, for performance and learning purposes  :sweat_smile: .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working :
+I'm also trying to include some data science and/or machnel learning project inside this repository. I'm currently working on an :point_right: implementation of a Decision Tree on Python. :point_left:
+
+Thanks for the visit.
