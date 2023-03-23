@@ -1,6 +1,6 @@
 ### Hello, I'm Santatra! 👋
-
-I study Signals and Systems Physics at Antananarivo University, Madagascar. 😄
+I'm a software/computer enthusiast living in Madagascar.
+I'm studying Computer Science at Antananarivo University, Madagascar. 😄
 
 ### What I am learning :
 I'm currently learning ASP.NET by writing a .NET Inventory App. The tech stack includes:
@@ -12,6 +12,6 @@ I'm currently learning ASP.NET by writing a .NET Inventory App. The tech stack i
 I'm using pure MySQL Connector instead of Entity Framework to connect the application to a MySQL database, for performance and learning purposes  :sweat_smile: .
 
 ### What I'm working :
-I'm also trying to include some data science and/or machnel learning project inside this repository. I'm currently working on an :point_right: implementation of a Decision Tree on Python. :point_left:
+I'm also trying to include some data science and/or machnel learning project inside this repository. I'm currently working on an :point_right: a Reinforcement Learning game using Pygame. :point_left:
 
 Thanks for the visit.
